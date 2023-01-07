@@ -7,7 +7,7 @@ import (
 	"net"
 )
 
-var addr = "0.0.0.0:50051"
+var addr = "0.0.0.0:50052"
 
 func main() {
 	lis, err := net.Listen("tcp", addr)

@@ -13,4 +13,4 @@
 #### Build & Run server
 - ./bin/greet/server
 #### Build & Run client
-- - ./bin/greet/client
+- ./bin/greet/client
